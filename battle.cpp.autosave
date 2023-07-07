@@ -1,0 +1,15 @@
+class Hero{
+    int max_hp;
+        int hp;
+    int atk;
+    int def;
+    int mag;
+public:
+    Hero(int, int, int, int);   //构造函数
+    ~Hero();    //析构函数
+    
+};
+
+Hero::Hero (int ) {
+    
+}
